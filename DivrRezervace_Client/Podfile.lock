@@ -1,0 +1,38 @@
+PODS:
+  - FGRoute (1.0.5)
+  - Realm (4.3.2):
+    - Realm/Headers (= 4.3.2)
+  - Realm/Headers (4.3.2)
+  - RealmSwift (4.3.2):
+    - Realm (= 4.3.2)
+  - SwiftSocket (2.0.2)
+  - SwiftyJSON (4.3.0)
+  - SwiftySound (1.2.0)
+
+DEPENDENCIES:
+  - FGRoute
+  - RealmSwift
+  - SwiftSocket
+  - SwiftyJSON (~> 4.0)
+  - SwiftySound
+
+SPEC REPOS:
+  trunk:
+    - FGRoute
+    - Realm
+    - RealmSwift
+    - SwiftSocket
+    - SwiftyJSON
+    - SwiftySound
+
+SPEC CHECKSUMS:
+  FGRoute: 012077ebabb2841d2af3baf63b30e72841f35ba1
+  Realm: 5e92902e2875dff4bb0fd02f67bb737c3d5db2bc
+  RealmSwift: 9a360fc7bae04fc2e308a34fbd899d5faa2d6b22
+  SwiftSocket: 6f4c9c63fbc5c1d61188936bb3c599fd546f40ae
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  SwiftySound: 9eb28bb14edb601b40027e44319e0ef8383f88bf
+
+PODFILE CHECKSUM: dc9a9f9e744f87810ad9da3b62b6c1c0bf4db066
+
+COCOAPODS: 1.8.4
